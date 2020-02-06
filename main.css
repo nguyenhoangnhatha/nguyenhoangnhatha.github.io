@@ -121,7 +121,7 @@ h5, h6          { font-weight: bolder }
 }
 
 .billboard.dark{
-    background: url('./img/billboard2.jpg') no-repeat;
+    background: url('billboard2.jpg') no-repeat;
 
     background-size: cover;
     -webkit-background-size: cover;
